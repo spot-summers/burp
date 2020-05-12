@@ -21,7 +21,7 @@ setup(
     include_package_data=True,
     zip_safe=False,
     install_requires=[
-        'Flask==0.10.1',
+        'Flask==1.0',
         'WTForms==2.0.2',
         'Flask-Admin==1.2.0',
         'Flask-Bcrypt==0.6.2',
